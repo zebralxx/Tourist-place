@@ -47,7 +47,7 @@ li{
   font-size: 28px;
   font-weight: bold;
   text-align: left;
-  margin: 30px;
+  margin-left: 30px;
 }
 .divider {
   width: 100%;
@@ -78,6 +78,8 @@ main ol img{
 }
 body{
   background-color: #F5F4F0;
+  width: 1120px;
+  margin: 88px auto 80px;
 }
 img{
   border-radius: 28px;
